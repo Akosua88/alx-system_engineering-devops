@@ -1,2 +1,2 @@
 #!/bin/bas
-printf '%x\n' $DECIMALh
+printf '%x\n' $DECIMAL
